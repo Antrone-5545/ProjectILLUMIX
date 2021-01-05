@@ -3,3 +3,6 @@ Features
 1) ArduLIGHT 0.3 full Support
 2) Bug Fix
 3) Translated on English
+
+Bugs
+(I dont find)
