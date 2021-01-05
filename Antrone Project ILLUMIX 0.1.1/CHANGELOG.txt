@@ -1,8 +1,8 @@
-# Antrone Project ILLUMIX 0.1.1
+Antrone Project ILLUMIX 0.1.1
 Features
 1) ArduLIGHT 0.3 full Support
 2) Bug Fix
 3) Translated on English
 
-# Bugs
+Bugs
 (I dont find)
