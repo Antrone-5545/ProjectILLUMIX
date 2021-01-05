@@ -7,3 +7,5 @@ The ILLUMIX project is a Windows application that allows you to conveniently and
 # Issues
 1) To change effect, Pers reset and select new effect. 
 2) The Reset and Apply buttons may not work the first time.
+# ArduLIGHT
+https://github.com/Antrone-5545/ArduLIGHT
