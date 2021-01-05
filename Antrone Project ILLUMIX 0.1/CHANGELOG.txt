@@ -1,0 +1,6 @@
+FEATURES:
+First Version!
+
+BUGS:
+1) Lots of Exeptions
+2) Sometimes the application stops working and requires a restart.
