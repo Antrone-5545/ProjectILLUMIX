@@ -1,0 +1,7 @@
+Features
+1) ArduLIGHT 0.3.1 full Support
+2) Super New UI
+3)Delay value removed. Now, only speed value!
+
+Bugs
+1) Exception messages
