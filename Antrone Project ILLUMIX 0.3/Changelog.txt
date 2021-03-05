@@ -1,0 +1,9 @@
+Features
+1) ArduLIGHT 0.4 full Support
+2) UI improves
+3) Dynamic Effects support
+4) Fixed some bugs
+5) Brightness Bar!
+
+bugs
+1) Manual mode to buggy...
